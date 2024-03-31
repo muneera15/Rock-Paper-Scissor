@@ -22,8 +22,8 @@ restart.addEventListener("click",playAgain);
 
 
 function updateImage(playerSelection,botSelection){
-    playerImage.src =`images/${playerSelection}.png`;
-    botImage.src =`images/${botSelection}.png`;
+    playerImage.src =`${playerSelection}.png`;
+    botImage.src =`${botSelection}.png`;
     console.log(playerImage)
 }
 let choices =['rock','paper','scissor'];
