@@ -14,7 +14,7 @@ Clear indication of the winner after each round.
 Option to play again once the game is over.
 
 ## Preview
-https://main--animated-longma-382cfe.netlify.app/
+https://rock-paper-scissor-with-computer.netlify.app/
 
 ## Technologies Used
 - HTML
